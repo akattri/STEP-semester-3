@@ -1,2 +1,3 @@
-## Week 1
+## Log
+### Week 1
 Completed java string concepts
